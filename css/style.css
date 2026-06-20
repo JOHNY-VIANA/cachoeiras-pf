@@ -642,3 +642,9 @@ body {
 .detalhe-hero {
     image-rendering: auto;
 }
+.card-thumb{
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  
+}
